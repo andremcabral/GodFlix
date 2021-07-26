@@ -1,0 +1,14 @@
+        @media screen and (max-width:480px) {
+            header .container {
+                flex-direction: column;
+            }
+            .filme_abertura .container {
+                width: 100%;
+            }
+        }
+        
+        @media screen and (min-width:900px) {
+            .filme_abertura .container {
+                width: 60%;
+            }
+        }
