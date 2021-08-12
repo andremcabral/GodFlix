@@ -73,7 +73,7 @@ header .logo {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo1.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo1.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: center;
@@ -83,14 +83,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura2 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo2.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo2.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: center;
@@ -100,14 +99,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura3 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo3.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo3.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: center;
@@ -117,14 +115,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura4 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo4.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo4.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: top;
@@ -134,14 +131,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura5 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo5.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo5.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: center;
@@ -151,14 +147,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura6 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo6.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo6.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: bottom;
@@ -168,14 +163,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura7 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo7.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo7.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: top;
@@ -185,14 +179,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura8 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo8.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo8.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: center;
@@ -202,14 +195,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura9 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo9.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo9.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: center;
@@ -219,14 +211,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura10 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo10.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo10.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: top;
@@ -236,14 +227,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura11 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo11.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo11.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: top;
@@ -253,14 +243,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura12 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(37, 35, 35, 0.7)100%), url('/img/fundo12.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(37, 35, 35, 0.7)100%), url('../img/fundo12.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: top;
@@ -270,14 +259,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura13 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo13.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo13.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: bottom;
@@ -287,14 +275,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura14 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(37, 35, 35, 0.7)100%), url('/img/fundo14.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(37, 35, 35, 0.7)100%), url('../img/fundo14.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: center;
@@ -304,14 +291,13 @@ header .logo {
     /*justify e align sempre acompanha a orientação do flex*/
     justify-content: flex-end;
     align-items: left;
-    */
 }
 
 .filme_abertura15 {
     color: white;
     padding: 1%;
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('/img/fundo15.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(37, 35, 35, 0.7)100%), url('../img/fundo15.jpg');
     /* linear-gradiente vc informa duas cores e vai criar a variação entre elas */
     height: 400px;
     background-position: center;
